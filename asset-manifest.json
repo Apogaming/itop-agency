@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/itop-agency/static/css/main.ed9501df.chunk.css",
+    "main.js": "/itop-agency/static/js/main.3ac9cb4e.chunk.js",
+    "main.js.map": "/itop-agency/static/js/main.3ac9cb4e.chunk.js.map",
+    "runtime-main.js": "/itop-agency/static/js/runtime-main.9bcc18a2.js",
+    "runtime-main.js.map": "/itop-agency/static/js/runtime-main.9bcc18a2.js.map",
+    "static/js/2.730f8f3e.chunk.js": "/itop-agency/static/js/2.730f8f3e.chunk.js",
+    "static/js/2.730f8f3e.chunk.js.map": "/itop-agency/static/js/2.730f8f3e.chunk.js.map",
+    "index.html": "/itop-agency/index.html",
+    "static/css/main.ed9501df.chunk.css.map": "/itop-agency/static/css/main.ed9501df.chunk.css.map",
+    "static/js/2.730f8f3e.chunk.js.LICENSE.txt": "/itop-agency/static/js/2.730f8f3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bcc18a2.js",
+    "static/js/2.730f8f3e.chunk.js",
+    "static/css/main.ed9501df.chunk.css",
+    "static/js/main.3ac9cb4e.chunk.js"
+  ]
+}
